@@ -49,7 +49,7 @@ O resultado é um app que mistura **tecnologia, humor e nostalgia**, funcionando
 4. Build & Run.
 
 ## Aplicativo em Funcionamento
-<img width="300" height="150" src="https://github.com/user-attachments/assets/469e7d8c-7e67-4846-bec4-4ba157a8a317"><br>
+<img width="300" height="600" src="https://github.com/user-attachments/assets/469e7d8c-7e67-4846-bec4-4ba157a8a317"><br>
 
 ## Capturas de tela
 
