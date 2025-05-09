@@ -55,12 +55,12 @@ O resultado é um app que mistura **tecnologia, humor e nostalgia**, funcionando
 ## Créditos
 
 Desenvolvido por:
-- Isabela Hissa Pinto - https://github.com/hissapinto
-- Dayo Leal - https://github.com/dayoleal
-- Camila Parolin - https://github.com/cparolin
-- Matheus Motta - https://github.com/matheusmotta16
-- Lucca Pivoto - https://github.com/LuccaPV
-- Kleber Gadelha - https://github.com/Kleber-gadelha
-
+- Isabela Hissa Pinto <a href="https://www.linkedin.com/in/isabela-hissa-pinto-05aa741b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/hissapinto"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br> <br>
+- Dayo Leal <a href="https://www.linkedin.com/in/dayo-araujo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/dayoleal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br> <br>
+- Camila Parolin <a href="https://www.linkedin.com/in/camila-parolin-70a437333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/cparolin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br> <br>
+- Matheus Motta <a href="https://www.linkedin.com/in/matheus-motta-5a8539349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/matheusmotta16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br> <br>
+- Lucca Pivoto <a href="https://www.linkedin.com/in/luccapivoto?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/LuccaPV"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br> <br>
+- Kleber Gadelha <a href="https://www.linkedin.com/in/kleber-gadelha-917a6228b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Kleber-gadelha
+"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br> <br>
   
 ![IMG_5314](https://github.com/user-attachments/assets/5003e2c0-cae3-4135-8e77-6a5d5b6099fc)
